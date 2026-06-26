@@ -10,10 +10,6 @@ A web-based Restaurant Management System developed using **Python, Flask, HTML, 
 ![SQLite](https://img.shields.io/badge/SQLite-Database-lightgrey)
 ![MIT](https://img.shields.io/badge/License-MIT-green)
 ---
-![GitHub stars](https://img.shields.io/github/stars/your-username/SMART-RESTAURANT-MANAGEMENT-SYSTEM)
-![GitHub forks](https://img.shields.io/github/forks/your-username/SMART-RESTAURANT-MANAGEMENT-SYSTEM)
-![GitHub last commit](https://img.shields.io/github/last-commit/your-username/SMART-RESTAURANT-MANAGEMENT-SYSTEM)
----
 ## 📌 Project Information
 
 | Property | Value |
