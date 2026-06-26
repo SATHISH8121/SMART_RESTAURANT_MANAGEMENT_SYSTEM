@@ -29,57 +29,6 @@ A web-based Restaurant Management System developed using **Python, Flask, HTML, 
 | Architecture | Three-Tier Architecture |
 | License | MIT |
 ---
----
-
-# 📸 Project Screenshots
-
-## 🏠 Home Page
-
-<p align="center">
-    <img src="screenshots/home.png" width="900">
-</p>
-
----
-
-## 🍽️ Menu Page
-
-<p align="center">
-    <img src="screenshots/menu.png" width="900">
-</p>
-
----
-
-## 🔍 Search Food
-
-<p align="center">
-    <img src="screenshots/search.png" width="900">
-</p>
-
----
-
-## 🛒 Order Page
-
-<p align="center">
-    <img src="screenshots/order.png" width="900">
-</p>
-
----
-
-## 💳 Payment Page
-
-<p align="center">
-    <img src="screenshots/payment.png" width="900">
-</p>
-
----
-
-## 🧾 Digital Receipt
-
-<p align="center">
-    <img src="screenshots/receipt.png" width="900">
-</p>
----
-
 
 # 📌 Project Overview
 
