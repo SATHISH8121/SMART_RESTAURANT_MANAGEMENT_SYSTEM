@@ -2,7 +2,84 @@
 
 A web-based Restaurant Management System developed using **Python, Flask, HTML, CSS, JavaScript, and SQLite**. The application streamlines restaurant operations by allowing customers to browse menus, place orders, search food items, make payments, and generate digital receipts.
 
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+![Flask](https://img.shields.io/badge/Flask-Web%20App-black)
+![HTML](https://img.shields.io/badge/HTML5-orange)
+![CSS](https://img.shields.io/badge/CSS3-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
+![SQLite](https://img.shields.io/badge/SQLite-Database-lightgrey)
+![MIT](https://img.shields.io/badge/License-MIT-green)
 ---
+![GitHub stars](https://img.shields.io/github/stars/your-username/SMART-RESTAURANT-MANAGEMENT-SYSTEM)
+![GitHub forks](https://img.shields.io/github/forks/your-username/SMART-RESTAURANT-MANAGEMENT-SYSTEM)
+![GitHub last commit](https://img.shields.io/github/last-commit/your-username/SMART-RESTAURANT-MANAGEMENT-SYSTEM)
+---
+## 📌 Project Information
+
+| Property | Value |
+|----------|-------|
+| Project Type | Web Application |
+| Domain | Restaurant Management |
+| Programming Language | Python |
+| Backend Framework | Flask |
+| Frontend | HTML5, CSS3, JavaScript |
+| Database | SQLite |
+| Payment Integration | UPI, Razorpay (Optional) |
+| Development Tools | VS Code, Git, GitHub |
+| Architecture | Three-Tier Architecture |
+| License | MIT |
+---
+---
+
+# 📸 Project Screenshots
+
+## 🏠 Home Page
+
+<p align="center">
+    <img src="screenshots/home.png" width="900">
+</p>
+
+---
+
+## 🍽️ Menu Page
+
+<p align="center">
+    <img src="screenshots/menu.png" width="900">
+</p>
+
+---
+
+## 🔍 Search Food
+
+<p align="center">
+    <img src="screenshots/search.png" width="900">
+</p>
+
+---
+
+## 🛒 Order Page
+
+<p align="center">
+    <img src="screenshots/order.png" width="900">
+</p>
+
+---
+
+## 💳 Payment Page
+
+<p align="center">
+    <img src="screenshots/payment.png" width="900">
+</p>
+
+---
+
+## 🧾 Digital Receipt
+
+<p align="center">
+    <img src="screenshots/receipt.png" width="900">
+</p>
+---
+
 
 # 📌 Project Overview
 
